@@ -4,7 +4,7 @@ Ask a question you would usually ask google then run it through a google search 
 ```How Old is Barack Obama where and when was he Born?```
  President of the United States of America was born August 4, 1961 in Honolulu, Hawaii, the youngest 
 of three children. Barack Obama Jr. was born at 6:11 a.m. in the maternity ward of Queen's Medical Center. The president's biological mother, Barack Obama Sr., was a student at the University of Hawaii. She was 18 and he was 24 when Barack Sr. and his infant son were married in 1964.
-- Note GPT-J-6B often faces issues with identity resolution. 
+- Note GPT-J-6B often faces issues with entity resolution. 
 
 ## Clone and Checkout Repo of Branch
 ```

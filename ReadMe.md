@@ -1,5 +1,5 @@
 # This Repo Scrapes Google then Runs it Through GPT-J-6b
-Ask a question you would usually ask google then run it through the model and extract the results.
+Ask a question you would usually ask google then run it through a google search and language model to extract the results.
 - Example 
 ```How Old is Barack Obama where and when was he Born?```
  President of the United States of America was born August 4, 1961 in Honolulu, Hawaii, the youngest 
